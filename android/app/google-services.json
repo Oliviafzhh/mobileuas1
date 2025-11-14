@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "147647359989",
+    "project_id": "login-flutter-f5a90",
+    "storage_bucket": "login-flutter-f5a90.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147647359989:android:e1c31f65b3265667420ebc",
+        "android_client_info": {
+          "package_name": "com.mobileuas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMUC9LfAfpWt_DZM1JAkNu_HVyjOtz43U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
